@@ -1,0 +1,5 @@
+C:\Users\Admin\bridgelab\csharpprograms\HashTable\HashTable\obj\Debug\net6.0\HashTable.csproj.AssemblyReference.cache
+C:\Users\Admin\bridgelab\csharpprograms\HashTable\HashTable\obj\Debug\net6.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\bridgelab\csharpprograms\HashTable\HashTable\obj\Debug\net6.0\HashTable.AssemblyInfoInputs.cache
+C:\Users\Admin\bridgelab\csharpprograms\HashTable\HashTable\obj\Debug\net6.0\HashTable.AssemblyInfo.cs
+C:\Users\Admin\bridgelab\csharpprograms\HashTable\HashTable\obj\Debug\net6.0\HashTable.csproj.CoreCompileInputs.cache
