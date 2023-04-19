@@ -29,7 +29,4 @@ namespace HashTable
             }
         }
     }
-    Footer
-© 2023 GitHub, In
-}
-}
+    
